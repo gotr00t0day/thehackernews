@@ -1,6 +1,6 @@
 ## INSTALLATION
 
-git clone <br/>
+git clone https://github.com/gotr00t0day/thehackernews.git<br/>
 
 cd thehackernews <br/>
 
