@@ -1,5 +1,5 @@
 ## INSTALLATION
 
-git clone 
-cd thehackernews
-python3 thehackernews.py
+git clone <br/>
+cd thehackernews <br/>
+python3 thehackernews.py <br/>
